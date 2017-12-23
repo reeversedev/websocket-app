@@ -12,7 +12,7 @@
     "url": "git+https://github.com/reeversedev/websocket-app.git"
   },
   "engines": {
-    "npm": "8.9.x"
+    "node": "8.9.x"
   },
   "keywords": [
     "javascript",
